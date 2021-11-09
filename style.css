@@ -1,0 +1,51 @@
+.header{
+    margin-top: 100px;
+}
+
+
+iframe{
+    top: 100px;
+}
+
+#service img{
+    height: 150px;
+}
+
+/* #service .card{
+    /* height: 350px; */
+ 
+
+nav{
+    color: #aa763a;
+}
+
+.color{
+    color: #aa763a;
+}
+
+.bgcolor{
+    background-color: #aa763a;
+}
+
+.bgcolorr{
+    background-color: #aa763a;
+}
+
+
+.bgcolor:hover{
+    background-color: darkgray;
+}
+
+
+.radius{
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #aa763a;
+}
